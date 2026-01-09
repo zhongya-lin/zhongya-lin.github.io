@@ -1,0 +1,74 @@
+I"~<h2 id="past-studies-from-theory-to-mechanobiology">Past studies: From theory to mechanobiology</h2>
+
+<p>My research began with a fundamental challenge in solid mechanics: traditional theories could not explain the competitive behavior of advanced materials where strengthening (e.g., microstructural strain gradients) and softening (e.g., viscous energy dissipation) occur simultaneously. To address this, we proposed a Strain Gradient Linear Viscoelasticity Theory <a class="citation" href="#lin2020strain">(Lin &amp; Wei, 2020)</a>. By deriving a correspondence principle in the Laplace phase space, we established a framework where the material’s characteristic scale is no longer a constant but a time-dependent parameter. This allowed for the explanation of the Hall-Petch and inverse Hall-Petch relations, showing how material strength can fluctuate as internal microstructures evolve <a class="citation" href="#lin2021strain">(Lin et al., 2021)</a>.</p>
+
+<p>Moving into the realm of multiscale mechanobiology, we applied this logic to the “active materials” of life.</p>
+
+<ul>
+  <li>
+    <p>At the cellular level, we explored how extracellular viscosity regulates motility. Our model suggests that cells are not merely restricted by environmental resistance but adapt their actin filament networks to optimize migration, a process that can lead to short-term migration memory<a class="citation" href="#lin2025adaptive">(Lin et al., 2026)</a>.</p>
+  </li>
+  <li>
+    <p>At the tissue level, we investigated how stress relaxation facilitates sustained growth in organoids and tumors. By dissipating residual stresses, viscoelasticity acts as a modulator of morphological evolution, determining the specific patterns of folding and wrinkling seen in developing organs <a class="citation" href="#lin2025mechanobiological">(Lin et al., 2025)</a>.</p>
+  </li>
+  <li>
+    <p>Computational Tools: To support these explorations, we developed a Physics-Informed Neural Network (PINN) framework. We found that the inherent oscillations of the neural network optimizer during training could serve as a natural perturbation, allowing the model to capture creep buckling and structural instabilities without the manual introduction of artificial imperfections. While this tool offers a promising, mesh-free alternative for simulating evolving geometries, we recognize that further refinement is needed to handle more complex, multi-layered structures <a class="citation" href="#lin2025physics">(Lin et al., 2026)</a>.</p>
+  </li>
+</ul>
+
+<aside>
+
+  
+
+
+
+<figure>
+  <picture>
+    <!-- Auto scaling with imagemagick -->
+    <!--
+      See https://www.debugbear.com/blog/responsive-images#w-descriptors-and-the-sizes-attribute and
+      https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images for info on defining 'sizes' for responsive images
+    -->
+    
+      
+        <source class="responsive-img-srcset" srcset="/assets/img/MultiMechanobilogy-480.webp 480w,/assets/img/MultiMechanobilogy-800.webp 800w,/assets/img/MultiMechanobilogy-1400.webp 1400w," type="image/webp" sizes="95vw" />
+      
+    
+    <img src="/assets/img/MultiMechanobilogy.png" class="img-fluid rounded z-depth-1" width="100%" height="auto" data-zoomable="" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+  </picture>
+
+  
+</figure>
+
+  <p>Multiscale, Mechanobiology, and Viscoelasticity</p>
+
+  
+
+
+
+<figure>
+  <picture>
+    <!-- Auto scaling with imagemagick -->
+    <!--
+      See https://www.debugbear.com/blog/responsive-images#w-descriptors-and-the-sizes-attribute and
+      https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images for info on defining 'sizes' for responsive images
+    -->
+    
+      
+        <source class="responsive-img-srcset" srcset="/assets/img/postdoc-projects-480.webp 480w,/assets/img/postdoc-projects-800.webp 800w,/assets/img/postdoc-projects-1400.webp 1400w," type="image/webp" sizes="95vw" />
+      
+    
+    <img src="/assets/img/postdoc-projects.png" class="img-fluid rounded z-depth-1" width="100%" height="auto" data-zoomable="" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+  </picture>
+
+  
+</figure>
+
+  <p>Keywords - Projects</p>
+  
+</aside>
+
+<h2 id="a-possible-future-study-the-universal-multi---cross-scale-mechanics">A possible future study: the universal multi- / cross-scale mechanics</h2>
+
+<p>Building upon the foundational theories of mechanics, my research aims to contribute to a deeper understanding of how time-dependent behavior (viscoelasticity) and microstructural hierarchy (strain gradients) interact to shape the evolution of materials across scales. I hope the studies can provide fundamental bridge between the microscopic origins of a material and its macroscopic property. By understanding how time and scale compete, we gain the power not just to observe materials, but to engineer their evolution.</p>
+:ET

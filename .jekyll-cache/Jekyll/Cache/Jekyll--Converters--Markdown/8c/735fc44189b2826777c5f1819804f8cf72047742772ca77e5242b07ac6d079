@@ -1,0 +1,135 @@
+I"À<!-- pages/projects.md -->
+<div class="projects">
+
+
+<!-- Display projects without categories -->
+
+
+
+  <!-- Generate cards for each project -->
+
+
+  <div class="row row-cols-1 row-cols-md-3">
+    
+      <div class="col">
+  <a href="/projects/1_project/">
+    <div class="card h-100 hoverable">
+      
+        
+
+
+
+<figure>
+  <picture>
+    <!-- Auto scaling with imagemagick -->
+    <!--
+      See https://www.debugbear.com/blog/responsive-images#w-descriptors-and-the-sizes-attribute and
+      https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images for info on defining 'sizes' for responsive images
+    -->
+    
+      
+        <source class="responsive-img-srcset" srcset="/assets/img/StrainGradientPreview-480.webp 480w,/assets/img/StrainGradientPreview-800.webp 800w,/assets/img/StrainGradientPreview-1400.webp 1400w," type="image/webp" sizes="250px" />
+      
+    
+    <img src="/assets/img/StrainGradientPreview.png" class="card-img-top" width="100%" height="auto" alt="project thumbnail" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+  </picture>
+
+  
+</figure>
+
+      
+      <div class="card-body">
+        <h3 class="card-title">Cross-scale theory inlcuding spatial and teporal effects</h3>
+        <p class="card-text">Develop strain gradient viscoelasticity and viscoplasticity theory to characterize the cross-scale effects.</p>
+        <div class="row ml-1 mr-1 p-0">
+          
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+    
+      <div class="col">
+  <a href="/projects/2_project/">
+    <div class="card h-100 hoverable">
+      
+        
+
+
+
+<figure>
+  <picture>
+    <!-- Auto scaling with imagemagick -->
+    <!--
+      See https://www.debugbear.com/blog/responsive-images#w-descriptors-and-the-sizes-attribute and
+      https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images for info on defining 'sizes' for responsive images
+    -->
+    
+      
+        <source class="responsive-img-srcset" srcset="/assets/img/GrowthPreview-480.webp 480w,/assets/img/GrowthPreview-800.webp 800w,/assets/img/GrowthPreview-1400.webp 1400w," type="image/webp" sizes="250px" />
+      
+    
+    <img src="/assets/img/GrowthPreview.png" class="card-img-top" width="100%" height="auto" alt="project thumbnail" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+  </picture>
+
+  
+</figure>
+
+      
+      <div class="card-body">
+        <h3 class="card-title">Tissue growth model and its numerical simulation</h3>
+        <p class="card-text">Proposed a viscoelastic growth model and simulate it using FEM and PINNs</p>
+        <div class="row ml-1 mr-1 p-0">
+          
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+    
+      <div class="col">
+  <a href="/projects/3_project/">
+    <div class="card h-100 hoverable">
+      
+        
+
+
+
+<figure>
+  <picture>
+    <!-- Auto scaling with imagemagick -->
+    <!--
+      See https://www.debugbear.com/blog/responsive-images#w-descriptors-and-the-sizes-attribute and
+      https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images for info on defining 'sizes' for responsive images
+    -->
+    
+      
+        <source class="responsive-img-srcset" srcset="/assets/img/CellPreview-480.webp 480w,/assets/img/CellPreview-800.webp 800w,/assets/img/CellPreview-1400.webp 1400w," type="image/webp" sizes="250px" />
+      
+    
+    <img src="/assets/img/CellPreview.png" class="card-img-top" width="100%" height="auto" alt="project thumbnail" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+  </picture>
+
+  
+</figure>
+
+      
+      <div class="card-body">
+        <h3 class="card-title">Microscale mechanisms of cell migration</h3>
+        <p class="card-text">Revealed the biophysical mechanisms of cell sense extracellular</p>
+        <div class="row ml-1 mr-1 p-0">
+          
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+    
+  </div>
+  
+
+</div>
+:ET

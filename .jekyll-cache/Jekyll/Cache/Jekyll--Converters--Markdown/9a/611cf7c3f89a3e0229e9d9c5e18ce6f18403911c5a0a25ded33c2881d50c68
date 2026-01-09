@@ -1,0 +1,29 @@
+I"Ÿ<p>As a postdoctoral researcher at Tsinghua University, I studied the viscoelasticity of biological tissues and cells from a multiscale perspective, using theoretical derivation, finite element method, statistical computation, and artificial intelligence.</p>
+
+<div class="row">
+    <div class="col-sm-3 mt-3 mt-md-0">
+        
+
+
+
+<figure>
+  <picture>
+    <!-- Auto scaling with imagemagick -->
+    <!--
+      See https://www.debugbear.com/blog/responsive-images#w-descriptors-and-the-sizes-attribute and
+      https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images for info on defining 'sizes' for responsive images
+    -->
+    
+      
+        <source class="responsive-img-srcset" srcset="/assets/img/MultiMechanobilogy-480.webp 480w,/assets/img/MultiMechanobilogy-800.webp 800w,/assets/img/MultiMechanobilogy-1400.webp 1400w," type="image/webp" sizes="95vw" />
+      
+    
+    <img src="/assets/img/MultiMechanobilogy.png" class="img-fluid rounded z-depth-1" width="100%" height="auto" title="example image" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+  </picture>
+
+  
+</figure>
+
+    </div>
+</div>
+:ET

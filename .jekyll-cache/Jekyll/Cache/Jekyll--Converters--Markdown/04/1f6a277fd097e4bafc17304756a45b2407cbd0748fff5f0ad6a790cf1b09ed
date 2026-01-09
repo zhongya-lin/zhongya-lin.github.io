@@ -1,0 +1,18 @@
+I"×<!-- pages/projects.md -->
+<div class="projects">
+
+
+<!-- Display projects without categories -->
+
+
+
+  <!-- Generate cards for each project -->
+
+
+  <div class="row row-cols-1 row-cols-md-3">
+    
+  </div>
+  
+
+</div>
+:ET

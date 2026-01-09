@@ -1,0 +1,75 @@
+metadata:
+  last_updated: '2026-01-03'
+papers:
+  kGOZOLAAAAAJ:0EnyYjriUFMC:
+    citations: 1
+    title: A Trans-scale Shear-lag Model for Characterizing the Size Effect and Viscoelasticity of Staggered Shells
+    year: '2025'
+  kGOZOLAAAAAJ:5nxA0vEk-isC:
+    citations: 1
+    title: A Physics-Informed Neural Network Framework for Simulating Creep Buckling in Growing Viscoelastic Biological Tissues
+    year: '2025'
+  kGOZOLAAAAAJ:8k81kl-MbHgC:
+    citations: 0
+    title: Adaptive cytoskeletal responses to extracellular environment viscosity modulate cell migration
+    year: '2025'
+  kGOZOLAAAAAJ:LkGwnXOMwfcC:
+    citations: 3
+    title: The strain gradient viscoelasticity full field solutions for Mode-I and Mode-II crack problems
+    year: '2024'
+  kGOZOLAAAAAJ:MXK_kJrjxJIC:
+    citations: 0
+    title: Characterization of the cross-scale viscoplastic effect for advanced structural materials
+    year: Unknown Year
+  kGOZOLAAAAAJ:Se3iqnhoufwC:
+    citations: 27
+    title: Energy-based physics-informed neural network for frictionless contact problems under large deformation
+    year: '2025'
+  kGOZOLAAAAAJ:UebtZRa9Y70C:
+    citations: 84
+    title: Experiment and numerical simulation for laser ultrasonic measurement of residual stress
+    year: '2017'
+  kGOZOLAAAAAJ:W7OEmFMy1HYC:
+    citations: 9
+    title: Closed-form functions of cross-scale indentation scaling relationships based on a strain gradient plasticity theory
+    year: '2021'
+  kGOZOLAAAAAJ:WF5omc3nYNoC:
+    citations: 72
+    title: 'Activating dispersed strain bands in tensioned nanostructure layer for high ductility: the effects of microstructure inhomogeneity'
+    year: '2022'
+  kGOZOLAAAAAJ:Y0pCki6q_DkC:
+    citations: 10
+    title: "Investigation on cross-scale indentation scaling relationships of elastic\u2013plastic solids"
+    year: '2021'
+  kGOZOLAAAAAJ:YsMSGLbcyi4C:
+    citations: 9
+    title: Strain gradient viscoelastic solution and cross-scale hardening-softening behavior for a pressurized thick spherical shell cell
+    year: '2021'
+  kGOZOLAAAAAJ:_FxGoFyzp5QC:
+    citations: 3
+    title: The strain gradient viscoelasticity full field solution of mode-III crack problem
+    year: '2023'
+  kGOZOLAAAAAJ:eQOLeE2rZwMC:
+    citations: 38
+    title: Mechanical response of the constrained nanostructured layer in heterogeneous laminate
+    year: '2022'
+  kGOZOLAAAAAJ:hqOjcs7Dif8C:
+    citations: 6
+    title: Mechanobiological modeling of viscoelasticity in soft tissue growth and morphogenesis
+    year: '2025'
+  kGOZOLAAAAAJ:roLk4NBRz8UC:
+    citations: 47
+    title: 'Artificial intelligence for partial differential equations in computational mechanics: A review'
+    year: '2024'
+  kGOZOLAAAAAJ:u-x6o8ySG0sC:
+    citations: 20
+    title: Measurement of nanoindentation properties of polymers considering adhesion effects between AFM sharp indenter and material
+    year: '2020'
+  kGOZOLAAAAAJ:u5HHmVD_uO8C:
+    citations: 36
+    title: A strain gradient linear viscoelasticity theory
+    year: '2020'
+  kGOZOLAAAAAJ:ufrVoPGSRksC:
+    citations: 3
+    title: The cross-scale strengthening-softening behavior of solids with the pressurized cylindrical cell
+    year: '2022'

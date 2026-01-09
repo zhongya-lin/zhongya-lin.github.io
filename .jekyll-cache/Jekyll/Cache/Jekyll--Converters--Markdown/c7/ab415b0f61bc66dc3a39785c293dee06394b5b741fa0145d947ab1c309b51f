@@ -1,0 +1,62 @@
+I"ˆ<p>Most soft biological tissues feature distinct mechanical properties of viscoelasticity, which play a significant role in their growth, development, and morphogenesis (Figure 1a). To reveal the biophysical mechanisms, we first proposed a mechanobiological viscoelastic model in the framework of thermodynamics <a class="citation" href="#lin2025mechanobiological">(Lin et al., 2025)</a>. Then, we used a more novel method, the physics-informed neural network (PINN) to simulate the tissue growth and morphological evolution <a class="citation" href="#lin2025physics">(Lin et al., 2026)</a>, (Figure 2, and the open-source code in <a href="https://github.com/zhongya-lin/PINN4Viscoelasticity">Github</a>). With PINN, buckling occurs naturally under the critical states during the oscillated training process without introducing artificial perturbations. Our studies have demonstrated that viscoelasticity facilitates sustained tissue growth and significantly influences the critical conditions of surface wrinkling and tissue morphology. In the future, we hope to apply the cross-scale theories, e.g., the strain gradient viscoelasticity <a class="citation" href="#lin2020strain">(Lin &amp; Wei, 2020)</a>, to characterize the multiscale / crossscale properties of biological tissues.</p>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        
+
+
+
+<figure>
+  <picture>
+    <!-- Auto scaling with imagemagick -->
+    <!--
+      See https://www.debugbear.com/blog/responsive-images#w-descriptors-and-the-sizes-attribute and
+      https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images for info on defining 'sizes' for responsive images
+    -->
+    
+      
+        <source class="responsive-img-srcset" srcset="/assets/img/project-toc/ViscoelasticGrowth-480.webp 480w,/assets/img/project-toc/ViscoelasticGrowth-800.webp 800w,/assets/img/project-toc/ViscoelasticGrowth-1400.webp 1400w," type="image/webp" sizes="95vw" />
+      
+    
+    <img src="/assets/img/project-toc/ViscoelasticGrowth.png" class="img-fluid rounded z-depth-1" width="100%" height="auto" title="example image" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+  </picture>
+
+  
+</figure>
+
+    </div>
+</div>
+<div class="caption">
+    Figure 1: The mechanobiological mechanisms of tissue growth and morphological evolution.
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        
+
+
+
+<figure>
+  <picture>
+    <!-- Auto scaling with imagemagick -->
+    <!--
+      See https://www.debugbear.com/blog/responsive-images#w-descriptors-and-the-sizes-attribute and
+      https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images for info on defining 'sizes' for responsive images
+    -->
+    
+      
+        <source class="responsive-img-srcset" srcset="/assets/img/project-toc/PINNs-Viscoelasticity-480.webp 480w,/assets/img/project-toc/PINNs-Viscoelasticity-800.webp 800w,/assets/img/project-toc/PINNs-Viscoelasticity-1400.webp 1400w," type="image/webp" sizes="95vw" />
+      
+    
+    <img src="/assets/img/project-toc/PINNs-Viscoelasticity.png" class="img-fluid rounded z-depth-1" width="100%" height="auto" title="example image" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+  </picture>
+
+  
+</figure>
+
+    </div>
+</div>
+<div class="caption">
+    Figure 2: Diagram of PINNs for the implementation of viscoelasticity.
+</div>
+:ET

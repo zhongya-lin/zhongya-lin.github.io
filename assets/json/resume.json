@@ -1,0 +1,127 @@
+{
+  "basics": {
+    "name": "Zhongya Lin",
+    "degree": "Doctor of Natural Science",
+    "image": "",
+    "E-mail": "zhongya.lin AT outlook.com",
+    "url": "https://scholar.google.com/citations?hl=en&user=kGOZOLAAAAAJ",
+    "summary": "A researcher in the field of physics, solid mechanics and mechanobiology, focusing on multiscale and viscoelasticity"
+  },
+  "work": [
+    {
+      "name": "IBDM & CNRS, Aix-Marseille University, Marseille, France",
+      "location": "Marseille, France",
+      "position": "Postdoc",
+      "url": "https://www.ibdm.univ-amu.fr/team/organisation-and-dynamics-of-biological-forms",
+      "startDate": "2025-07",
+      "endDate": "Now",
+      "summary": "Try to reveal the biophysical mechanisms behind the development of the fly wing.",
+      "highlights": "Collaborating Supervisor: Prof. Thomas Lecuit"
+    },
+    {
+      "name": "Institute of Biomechanics and Medical Engineering, Tsinghua University, Beijing, China",
+      "position": "Postdoc",
+      "location": "Beijing, China",
+      "url": "",
+      "startDate": "2023-05",
+      "endDate": "2025-05",
+      "summary": "Built biophysical models from tissue scale to subcellular scale.",
+      "highlights": "Collaborating Supervisor: Prof. Xi-Qiao Feng"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Peking University, Beijing, China",
+      "location": "Beijing, China",
+      "url": "https://english.pku.edu.cn",
+      "area": "Solid mechanics",
+      "studyType": "PhD",
+      "startDate": "2017-09",
+      "endDate": "2022-06",
+      "courses": ["Cross-scale theory: strain gradient viscoelasticity", 
+      "Supervisor: Prof. Yueguang Wei"]
+    },
+    {
+      "institution": "Northeastern University, Liaoning, China",
+      "location": "Liaoning, China",
+      "url": "https://en.nenu.edu.cn/",
+      "area": "Engineering mechanics",
+      "studyType": "Bachelor",
+      "startDate": "2013-09",
+      "endDate": "2017-07",
+      "courses": ["Mathematics, Elasticity, Material mechanics, ..."]
+    }
+  ],
+  "publications": [
+    {
+      "name": "A Physics-Informed Neural Network Framework for Simulating Creep Buckling in Growing Viscoelastic Biological Tissues",
+      "publisher": "Computer Methods in Applied Mechanics and Engineering",
+      "releaseDate": "2026-01",
+      "url": "",
+      "summary": "It developed a physics-informed neural network framework for viscoelastic creep buckling and tissue growth morphological evolution without artificial perturbation."
+    },
+    {
+      "name": "Adaptive Cytoskeletal Responses to Extracellular Environment Viscosity Modulate Cell Migration",
+      "publisher": "ACS Nano",
+      "releaseDate": "2025-12",
+      "url": "https://pubs.acs.org/doi/10.1021/acsnano.5c11355",
+      "summary": "It revealed the biophysical mechanisms of cell migration and migration memory in a viscous environment."
+    },
+    {
+      "name": "Mechanobiological modeling of viscoelasticity in soft tissue growth and morphogenesis",
+      "publisher": "Journal of the Mechanics and Physics of Solids",
+      "releaseDate": "2025-01",
+      "url": "https://doi.org/10.1016/j.jmps.2025.106032",
+      "summary": "It developed a mechanobiological model to characterize the viscoelasticity of growing tissue and its morphological evolution."
+    },
+    {
+      "name": "A strain gradient linear viscoelasticity theory",
+      "publisher": "International Journal of Solids and Structures",
+      "releaseDate": "2020-10",
+      "url": "https://doi.org/10.1016/j.ijsolstr.2020.08.008",
+      "summary": "It proposed a strain gradient viscoelasticity theory to capture the multiscale spatial effect and temporal effect."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Mechanics",
+      "icon": "fa-solid fa-key",
+      "keywords": [
+        "Elasticity",
+        "Viscoelasticity",
+        "Plasticity",
+        "Fracture mechanics"
+      ]
+    },
+    {
+      "name": "Biophysics",
+      "icon": "fa-solid fa-key",
+      "keywords": [
+        "Development",
+        "Morphogenesis",
+        "Cell motility"
+      ]
+    },
+    {
+      "name": "Artifical intelligence",
+      "icon": "fa-solid fa-key",
+      "keywords": [
+        "Physics-informed neural networks",
+        "Computer vision",
+        "Python"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Chinese",
+      "fluency": "Native speaker",
+      "icon": "fa-solidfa-language"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent",
+      "icon": "fa-solidfa-language"
+    }
+  ]
+}

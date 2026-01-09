@@ -1,0 +1,1649 @@
+I"1i<!-- _pages/publications.md -->
+
+<!-- Bibsearch Feature -->
+
+<script src="/assets/js/bibsearch.js?1bc438ca9037884cc579601c09afd847" type="module"></script>
+
+<p><input type="text" id="bibsearch" spellcheck="false" autocomplete="off" class="search bibsearch-form-input" placeholder="Type to filter" /></p>
+
+<div class="publications">
+
+<h2 class="bibliography">2026</h2>
+<ol class="bibliography"><li><div class="row">
+  
+    <div class="col col-sm-2 abbr">
+          <abbr class="badge rounded w-100">CMAME</abbr>
+        
+      
+      
+    </div>
+  
+
+  <!-- Entry bib key -->
+  <div id="lin2025physics" class="col-sm-8">
+    <!-- Title -->
+    <div class="title">A Physics-Informed Neural Network Framework for Simulating Creep Buckling in Growing Viscoelastic Biological Tissues</div>
+    <!-- Author -->
+    <div class="author">
+      
+
+      
+      <em>Zhongya
+            Lin</em>, Jinshuai
+            Bai, Shuang
+            Li, and
+        <span class="more-authors" title="click to view 3 more authors" onclick="
+              var element = $(this);
+              element.attr('title', '');
+              var more_authors_text = element.text() == '3 more authors' ? 'Xindong Chen, Bo Li, Xi-Qiao Feng' : '3 more authors';
+              var cursorPosition = 0;
+              var textAdder = setInterval(function(){
+                element.html(more_authors_text.substring(0, cursorPosition + 1));
+                if (++cursorPosition == more_authors_text.length){
+                  clearInterval(textAdder);
+                }
+            }, '10');
+          ">3 more authors</span>
+      
+      
+    </div>
+
+    <!-- Journal/Book title and date -->
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <div class="periodical">
+      <em>Computer Methods in Applied Mechanics and Engineering</em>,  2026
+    </div>
+    <div class="periodical">
+      
+    </div>
+
+    <!-- Links/Buttons -->
+    <div class="links">
+      
+      
+      
+        <a href="https://doi.org/10.1016/j.cma.2025.118715" class="btn btn-sm z-depth-0" role="button">DOI</a>
+      
+      
+      
+      
+        
+          <a href="https://doi.org/10.1016/j.cma.2025.118715" class="btn btn-sm z-depth-0" role="button">HTML</a>
+        
+      
+      
+        
+          <a href="/assets/pdf/cmame2025.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
+        
+      
+      
+      
+      
+      
+      
+      
+      
+    </div>
+    
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+      
+    
+
+    
+
+    
+
+    
+
+    
+  </div>
+</div>
+</li>
+<li><div class="row">
+  
+    <div class="col col-sm-2 abbr">
+          <abbr class="badge rounded w-100">ACS Nano</abbr>
+        
+      
+      
+    </div>
+  
+
+  <!-- Entry bib key -->
+  <div id="lin2025adaptive" class="col-sm-8">
+    <!-- Title -->
+    <div class="title">Adaptive cytoskeletal responses to extracellular environment viscosity modulate cell migration</div>
+    <!-- Author -->
+    <div class="author">
+      
+
+      
+      <em>Zhongya
+            Lin</em>, Xindong
+            Chen, and Xi-Qiao
+            Feng
+      
+    </div>
+
+    <!-- Journal/Book title and date -->
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <div class="periodical">
+      <em>ACS nano</em>,  2026
+    </div>
+    <div class="periodical">
+      
+    </div>
+
+    <!-- Links/Buttons -->
+    <div class="links">
+      
+      
+      
+        <a href="https://doi.org/10.1021/acsnano.5c11355" class="btn btn-sm z-depth-0" role="button">DOI</a>
+      
+      
+      
+      
+        
+          <a href="https://doi.org/10.1021/acsnano.5c11355" class="btn btn-sm z-depth-0" role="button">HTML</a>
+        
+      
+      
+        
+          <a href="/assets/pdf/acsnano-2025.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
+        
+      
+      
+      
+      
+      
+      
+      
+      
+    </div>
+    
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+      
+    
+
+    
+
+    
+
+    
+
+    
+  </div>
+</div>
+</li>
+<li><div class="row">
+  
+    <div class="col col-sm-2 abbr">
+          <abbr class="badge rounded w-100">IJMS</abbr>
+        
+      
+      
+    </div>
+  
+
+  <!-- Entry bib key -->
+  <div id="Liu2026" class="col-sm-8">
+    <!-- Title -->
+    <div class="title">Characterization of the cross-scale viscoplastic effect for advanced materials</div>
+    <!-- Author -->
+    <div class="author">
+      
+
+      
+      Zihe
+            Liu, <em>Zhongya
+            Lin</em>, and Yueguang
+            Wei
+      
+    </div>
+
+    <!-- Journal/Book title and date -->
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <div class="periodical">
+      <em>International Journal of Mechanical Sciences</em>,  2026
+    </div>
+    <div class="periodical">
+      
+    </div>
+
+    <!-- Links/Buttons -->
+    <div class="links">
+      
+      
+      
+        <a href="https://doi.org/10.1016/j.ijmecsci.2026.111164" class="btn btn-sm z-depth-0" role="button">DOI</a>
+      
+      
+      
+      
+        
+          <a href="https://www.sciencedirect.com/science/article/pii/S0020740326000202" class="btn btn-sm z-depth-0" role="button">HTML</a>
+        
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </div>
+    
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+      
+    
+
+    
+
+    
+
+    
+
+    
+  </div>
+</div>
+</li></ol>
+<h2 class="bibliography">2025</h2>
+<ol class="bibliography"><li><div class="row">
+  
+    <div class="col col-sm-2 abbr">
+          <abbr class="badge rounded w-100">JMPS</abbr>
+        
+      
+      
+    </div>
+  
+
+  <!-- Entry bib key -->
+  <div id="lin2025mechanobiological" class="col-sm-8">
+    <!-- Title -->
+    <div class="title">Mechanobiological modeling of viscoelasticity in soft tissue growth and morphogenesis</div>
+    <!-- Author -->
+    <div class="author">
+      
+
+      
+      <em>Zhongya
+            Lin</em>, Weizhi
+            Huang, Shuang
+            Li, and
+        <span class="more-authors" title="click to view 4 more authors" onclick="
+              var element = $(this);
+              element.attr('title', '');
+              var more_authors_text = element.text() == '4 more authors' ? 'Mingfeng Wang, Jinshuai Bai, Xindong Chen, Xi-Qiao Feng' : '4 more authors';
+              var cursorPosition = 0;
+              var textAdder = setInterval(function(){
+                element.html(more_authors_text.substring(0, cursorPosition + 1));
+                if (++cursorPosition == more_authors_text.length){
+                  clearInterval(textAdder);
+                }
+            }, '10');
+          ">4 more authors</span>
+      
+      
+    </div>
+
+    <!-- Journal/Book title and date -->
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <div class="periodical">
+      <em>Journal of the Mechanics and Physics of Solids</em>,  2025
+    </div>
+    <div class="periodical">
+      
+    </div>
+
+    <!-- Links/Buttons -->
+    <div class="links">
+      
+      
+      
+        <a href="https://doi.org/10.1016/j.jmps.2025.106032" class="btn btn-sm z-depth-0" role="button">DOI</a>
+      
+      
+      
+      
+        
+          <a href="https://doi.org/10.1016/j.jmps.2025.106032" class="btn btn-sm z-depth-0" role="button">HTML</a>
+        
+      
+      
+        
+          <a href="/assets/pdf/jmps2025.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
+        
+      
+      
+      
+      
+      
+      
+      
+      
+    </div>
+    
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+      
+    
+
+    
+
+    
+
+    
+
+    
+  </div>
+</div>
+</li>
+<li><div class="row">
+  
+    <div class="col col-sm-2 abbr">
+          <abbr class="badge rounded w-100">CMAME</abbr>
+        
+      
+      
+    </div>
+  
+
+  <!-- Entry bib key -->
+  <div id="bai2025energy" class="col-sm-8">
+    <!-- Title -->
+    <div class="title">Energy-based physics-informed neural network for frictionless contact problems under large deformation</div>
+    <!-- Author -->
+    <div class="author">
+      
+
+      
+      Jinshuai
+            Bai, <em>Zhongya
+            Lin</em>, Yizheng
+            Wang, and
+        <span class="more-authors" title="click to view 5 more authors" onclick="
+              var element = $(this);
+              element.attr('title', '');
+              var more_authors_text = element.text() == '5 more authors' ? 'Jiancong Wen, Yinghua Liu, Timon Rabczuk, YuanTong Gu, Xi-Qiao Feng' : '5 more authors';
+              var cursorPosition = 0;
+              var textAdder = setInterval(function(){
+                element.html(more_authors_text.substring(0, cursorPosition + 1));
+                if (++cursorPosition == more_authors_text.length){
+                  clearInterval(textAdder);
+                }
+            }, '10');
+          ">5 more authors</span>
+      
+      
+    </div>
+
+    <!-- Journal/Book title and date -->
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <div class="periodical">
+      <em>Computer Methods in Applied Mechanics and Engineering</em>,  2025
+    </div>
+    <div class="periodical">
+      
+    </div>
+
+    <!-- Links/Buttons -->
+    <div class="links">
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </div>
+    
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+      
+    
+
+    
+
+    
+
+    
+
+    
+  </div>
+</div>
+</li>
+<li><div class="row">
+  
+    <div class="col col-sm-2 abbr">
+          <abbr class="badge rounded w-100">AMSS</abbr>
+        
+      
+      
+    </div>
+  
+
+  <!-- Entry bib key -->
+  <div id="lin2025trans" class="col-sm-8">
+    <!-- Title -->
+    <div class="title">A Trans-scale Shear-lag Model for Characterizing the Size Effect and Viscoelasticity of Staggered Shells</div>
+    <!-- Author -->
+    <div class="author">
+      
+
+      
+      <em>Zhongya
+            Lin</em>, Kuanjie
+            Ding, Hansong
+            Ma, and
+        <span class="more-authors" title="click to view 1 more author" onclick="
+              var element = $(this);
+              element.attr('title', '');
+              var more_authors_text = element.text() == '1 more author' ? 'Yueguang Wei' : '1 more author';
+              var cursorPosition = 0;
+              var textAdder = setInterval(function(){
+                element.html(more_authors_text.substring(0, cursorPosition + 1));
+                if (++cursorPosition == more_authors_text.length){
+                  clearInterval(textAdder);
+                }
+            }, '10');
+          ">1 more author</span>
+      
+      
+    </div>
+
+    <!-- Journal/Book title and date -->
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <div class="periodical">
+      <em>Acta Mechanica Solida Sinica</em>,  2025
+    </div>
+    <div class="periodical">
+      
+    </div>
+
+    <!-- Links/Buttons -->
+    <div class="links">
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </div>
+    
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+      
+    
+
+    
+
+    
+
+    
+
+    
+  </div>
+</div>
+</li></ol>
+<h2 class="bibliography">2024</h2>
+<ol class="bibliography"><li><div class="row">
+  
+    <div class="col col-sm-2 abbr">
+          <abbr class="badge rounded w-100">EFM</abbr>
+        
+      
+      
+    </div>
+  
+
+  <!-- Entry bib key -->
+  <div id="ding2024strain" class="col-sm-8">
+    <!-- Title -->
+    <div class="title">The strain gradient viscoelasticity full field solutions for Mode-I and Mode-II crack problems</div>
+    <!-- Author -->
+    <div class="author">
+      
+
+      
+      Kuanjie
+            Ding, <em>Zhongya
+            Lin</em>, Yehui
+            Bie, and
+        <span class="more-authors" title="click to view 1 more author" onclick="
+              var element = $(this);
+              element.attr('title', '');
+              var more_authors_text = element.text() == '1 more author' ? 'Yueguang Wei' : '1 more author';
+              var cursorPosition = 0;
+              var textAdder = setInterval(function(){
+                element.html(more_authors_text.substring(0, cursorPosition + 1));
+                if (++cursorPosition == more_authors_text.length){
+                  clearInterval(textAdder);
+                }
+            }, '10');
+          ">1 more author</span>
+      
+      
+    </div>
+
+    <!-- Journal/Book title and date -->
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <div class="periodical">
+      <em>Engineering Fracture Mechanics</em>,  2024
+    </div>
+    <div class="periodical">
+      
+    </div>
+
+    <!-- Links/Buttons -->
+    <div class="links">
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </div>
+    
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+      
+    
+
+    
+
+    
+
+    
+
+    
+  </div>
+</div>
+</li>
+<li><div class="row">
+  
+    <div class="col col-sm-2 abbr">
+          <abbr class="badge rounded w-100">arXiv</abbr>
+        
+      
+      
+    </div>
+  
+
+  <!-- Entry bib key -->
+  <div id="wang2024artificial" class="col-sm-8">
+    <!-- Title -->
+    <div class="title">Artificial intelligence for partial differential equations in computational mechanics: A review</div>
+    <!-- Author -->
+    <div class="author">
+      
+
+      
+      Yizheng
+            Wang, Jinshuai
+            Bai, <em>Zhongya
+            Lin</em>, and
+        <span class="more-authors" title="click to view 8 more authors" onclick="
+              var element = $(this);
+              element.attr('title', '');
+              var more_authors_text = element.text() == '8 more authors' ? 'Qimin Wang, Cosmin Anitescu, Jia Sun, Mohammad Sadegh Eshaghi, Yuantong Gu, Xi-Qiao Feng, Xiaoying Zhuang,  others' : '8 more authors';
+              var cursorPosition = 0;
+              var textAdder = setInterval(function(){
+                element.html(more_authors_text.substring(0, cursorPosition + 1));
+                if (++cursorPosition == more_authors_text.length){
+                  clearInterval(textAdder);
+                }
+            }, '10');
+          ">8 more authors</span>
+      
+      
+    </div>
+
+    <!-- Journal/Book title and date -->
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <div class="periodical">
+      <em>arXiv preprint arXiv:2410.19843</em>,  2024
+    </div>
+    <div class="periodical">
+      
+    </div>
+
+    <!-- Links/Buttons -->
+    <div class="links">
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </div>
+    
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+      
+    
+
+    
+
+    
+
+    
+
+    
+  </div>
+</div>
+</li></ol>
+<h2 class="bibliography">2023</h2>
+<ol class="bibliography"><li><div class="row">
+  
+    <div class="col col-sm-2 abbr">
+          <abbr class="badge rounded w-100">IJF</abbr>
+        
+      
+      
+    </div>
+  
+
+  <!-- Entry bib key -->
+  <div id="ding2023strain" class="col-sm-8">
+    <!-- Title -->
+    <div class="title">The strain gradient viscoelasticity full field solution of mode-III crack problem</div>
+    <!-- Author -->
+    <div class="author">
+      
+
+      
+      Kuanjie
+            Ding, <em>Zhongya
+            Lin</em>, and Yueguang
+            Wei
+      
+    </div>
+
+    <!-- Journal/Book title and date -->
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <div class="periodical">
+      <em>International Journal of Fracture</em>,  2023
+    </div>
+    <div class="periodical">
+      
+    </div>
+
+    <!-- Links/Buttons -->
+    <div class="links">
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </div>
+    
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+      
+    
+
+    
+
+    
+
+    
+
+    
+  </div>
+</div>
+</li></ol>
+<h2 class="bibliography">2022</h2>
+<ol class="bibliography"><li><div class="row">
+  
+    <div class="col col-sm-2 abbr">
+          <abbr class="badge rounded w-100">Scripta</abbr>
+        
+      
+      
+    </div>
+  
+
+  <!-- Entry bib key -->
+  <div id="wang2022mechanical" class="col-sm-8">
+    <!-- Title -->
+    <div class="title">Mechanical response of the constrained nanostructured layer in heterogeneous laminate</div>
+    <!-- Author -->
+    <div class="author">
+      
+
+      
+      Yanfei
+            Wang, Yueguang
+            Wei, Zhifu
+            Zhao, and
+        <span class="more-authors" title="click to view 5 more authors" onclick="
+              var element = $(this);
+              element.attr('title', '');
+              var more_authors_text = element.text() == '5 more authors' ? 'Zhongya Lin, Fengjiao Guo, Qian Cheng, Chongxiang Huang, Yuntian Zhu' : '5 more authors';
+              var cursorPosition = 0;
+              var textAdder = setInterval(function(){
+                element.html(more_authors_text.substring(0, cursorPosition + 1));
+                if (++cursorPosition == more_authors_text.length){
+                  clearInterval(textAdder);
+                }
+            }, '10');
+          ">5 more authors</span>
+      
+      
+    </div>
+
+    <!-- Journal/Book title and date -->
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <div class="periodical">
+      <em>Scripta Materialia</em>,  2022
+    </div>
+    <div class="periodical">
+      
+    </div>
+
+    <!-- Links/Buttons -->
+    <div class="links">
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </div>
+    
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+      
+    
+
+    
+
+    
+
+    
+
+    
+  </div>
+</div>
+</li>
+<li><div class="row">
+  
+    <div class="col col-sm-2 abbr">
+          <abbr class="badge rounded w-100">IJP</abbr>
+        
+      
+      
+    </div>
+  
+
+  <!-- Entry bib key -->
+  <div id="wang2022activating" class="col-sm-8">
+    <!-- Title -->
+    <div class="title">Activating dispersed strain bands in tensioned nanostructure layer for high ductility: the effects of microstructure inhomogeneity</div>
+    <!-- Author -->
+    <div class="author">
+      
+
+      
+      Yanfei
+            Wang, Yueguang
+            Wei, Zhifu
+            Zhao, and
+        <span class="more-authors" title="click to view 6 more authors" onclick="
+              var element = $(this);
+              element.attr('title', '');
+              var more_authors_text = element.text() == '6 more authors' ? 'Hao Long, Zhongya Lin, Fengjiao Guo, Qiong He, Chongxiang Huang, Yuntian Zhu' : '6 more authors';
+              var cursorPosition = 0;
+              var textAdder = setInterval(function(){
+                element.html(more_authors_text.substring(0, cursorPosition + 1));
+                if (++cursorPosition == more_authors_text.length){
+                  clearInterval(textAdder);
+                }
+            }, '10');
+          ">6 more authors</span>
+      
+      
+    </div>
+
+    <!-- Journal/Book title and date -->
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <div class="periodical">
+      <em>International Journal of Plasticity</em>,  2022
+    </div>
+    <div class="periodical">
+      
+    </div>
+
+    <!-- Links/Buttons -->
+    <div class="links">
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </div>
+    
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+      
+    
+
+    
+
+    
+
+    
+
+    
+  </div>
+</div>
+</li>
+<li><div class="row">
+  
+    <div class="col col-sm-2 abbr">
+          <abbr class="badge rounded w-100">JAM</abbr>
+        
+      
+      
+    </div>
+  
+
+  <!-- Entry bib key -->
+  <div id="lin2022cross" class="col-sm-8">
+    <!-- Title -->
+    <div class="title">The cross-scale strengthening-softening behavior of solids with the pressurized cylindrical cell</div>
+    <!-- Author -->
+    <div class="author">
+      
+
+      
+      <em>Zhongya
+            Lin</em>  and Yueguang
+            Wei
+      
+    </div>
+
+    <!-- Journal/Book title and date -->
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <div class="periodical">
+      <em>Journal of Applied Mechanics</em>,  2022
+    </div>
+    <div class="periodical">
+      
+    </div>
+
+    <!-- Links/Buttons -->
+    <div class="links">
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </div>
+    
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+      
+    
+
+    
+
+    
+
+    
+
+    
+  </div>
+</div>
+</li></ol>
+<h2 class="bibliography">2021</h2>
+<ol class="bibliography"><li><div class="row">
+  
+    <div class="col col-sm-2 abbr">
+          <abbr class="badge rounded w-100">MoM</abbr>
+        
+      
+      
+    </div>
+  
+
+  <!-- Entry bib key -->
+  <div id="lin2021strain" class="col-sm-8">
+    <!-- Title -->
+    <div class="title">Strain gradient viscoelastic solution and cross-scale hardening-softening behavior for a pressurized thick spherical shell cell</div>
+    <!-- Author -->
+    <div class="author">
+      
+
+      
+      <em>Zhongya
+            Lin</em>, Zhijie
+            Yu, Yueguang
+            Wei, and
+        <span class="more-authors" title="click to view 1 more author" onclick="
+              var element = $(this);
+              element.attr('title', '');
+              var more_authors_text = element.text() == '1 more author' ? 'Yanfei Wang' : '1 more author';
+              var cursorPosition = 0;
+              var textAdder = setInterval(function(){
+                element.html(more_authors_text.substring(0, cursorPosition + 1));
+                if (++cursorPosition == more_authors_text.length){
+                  clearInterval(textAdder);
+                }
+            }, '10');
+          ">1 more author</span>
+      
+      
+    </div>
+
+    <!-- Journal/Book title and date -->
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <div class="periodical">
+      <em>Mechanics of Materials</em>,  2021
+    </div>
+    <div class="periodical">
+      
+    </div>
+
+    <!-- Links/Buttons -->
+    <div class="links">
+      
+      
+      
+        <a href="https://doi.org/10.1016/j.mechmat.2021.103902" class="btn btn-sm z-depth-0" role="button">DOI</a>
+      
+      
+      
+      
+        
+          <a href="https://doi.org/10.1016/j.mechmat.2021.103902" class="btn btn-sm z-depth-0" role="button">HTML</a>
+        
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </div>
+    
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+      
+    
+
+    
+
+    
+
+    
+
+    
+  </div>
+</div>
+</li>
+<li><div class="row">
+  
+    <div class="col col-sm-2 abbr">
+          <abbr class="badge rounded w-100">Acta Mecha.</abbr>
+        
+      
+      
+    </div>
+  
+
+  <!-- Entry bib key -->
+  <div id="yu2021investigation" class="col-sm-8">
+    <!-- Title -->
+    <div class="title">Investigation on cross-scale indentation scaling relationships of elastic–plastic solids</div>
+    <!-- Author -->
+    <div class="author">
+      
+
+      
+      Zhijie
+            Yu, <em>Zhongya
+            Lin</em>, and Yueguang
+            Wei
+      
+    </div>
+
+    <!-- Journal/Book title and date -->
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <div class="periodical">
+      <em>Acta Mechanica</em>,  2021
+    </div>
+    <div class="periodical">
+      
+    </div>
+
+    <!-- Links/Buttons -->
+    <div class="links">
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </div>
+    
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+      
+    
+
+    
+
+    
+
+    
+
+    
+  </div>
+</div>
+</li>
+<li><div class="row">
+  
+    <div class="col col-sm-2 abbr">
+          <abbr class="badge rounded w-100">Philosophical</abbr>
+        
+      
+      
+    </div>
+  
+
+  <!-- Entry bib key -->
+  <div id="yu2021closed" class="col-sm-8">
+    <!-- Title -->
+    <div class="title">Closed-form functions of cross-scale indentation scaling relationships based on a strain gradient plasticity theory</div>
+    <!-- Author -->
+    <div class="author">
+      
+
+      
+      Zhijie
+            Yu, <em>Zhongya
+            Lin</em>, and Yueguang
+            Wei
+      
+    </div>
+
+    <!-- Journal/Book title and date -->
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <div class="periodical">
+      <em>Philosophical Magazine</em>,  2021
+    </div>
+    <div class="periodical">
+      
+    </div>
+
+    <!-- Links/Buttons -->
+    <div class="links">
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </div>
+    
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+      
+    
+
+    
+
+    
+
+    
+
+    
+  </div>
+</div>
+</li></ol>
+<h2 class="bibliography">2020</h2>
+<ol class="bibliography"><li><div class="row">
+  
+    <div class="col col-sm-2 abbr">
+          <abbr class="badge rounded w-100">IJSS</abbr>
+        
+      
+      
+    </div>
+  
+
+  <!-- Entry bib key -->
+  <div id="lin2020strain" class="col-sm-8">
+    <!-- Title -->
+    <div class="title">A strain gradient linear viscoelasticity theory</div>
+    <!-- Author -->
+    <div class="author">
+      
+
+      
+      <em>Zhongya
+            Lin</em>  and Yueguang
+            Wei
+      
+    </div>
+
+    <!-- Journal/Book title and date -->
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <div class="periodical">
+      <em>International Journal of Solids and Structures</em>,  2020
+    </div>
+    <div class="periodical">
+      
+    </div>
+
+    <!-- Links/Buttons -->
+    <div class="links">
+      
+      
+      
+        <a href="https://doi.org/10.1016/j.ijsolstr.2020.08.008" class="btn btn-sm z-depth-0" role="button">DOI</a>
+      
+      
+      
+      
+        
+          <a href="https://doi.org/10.1016/j.ijsolstr.2020.08.008" class="btn btn-sm z-depth-0" role="button">HTML</a>
+        
+      
+      
+        
+          <a href="/assets/pdf/ijss2020.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
+        
+      
+      
+      
+      
+      
+      
+      
+      
+    </div>
+    
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+      
+    
+
+    
+
+    
+
+    
+
+    
+  </div>
+</div>
+</li>
+<li><div class="row">
+  
+    <div class="col col-sm-2 abbr">
+          <abbr class="badge rounded w-100">JAST</abbr>
+        
+      
+      
+    </div>
+  
+
+  <!-- Entry bib key -->
+  <div id="lin2020measurement" class="col-sm-8">
+    <!-- Title -->
+    <div class="title">Measurement of nanoindentation properties of polymers considering adhesion effects between AFM sharp indenter and material</div>
+    <!-- Author -->
+    <div class="author">
+      
+
+      
+      <em>Zhongya
+            Lin</em>, Zhijie
+            Yu, and Yueguang
+            Wei
+      
+    </div>
+
+    <!-- Journal/Book title and date -->
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <div class="periodical">
+      <em>Journal of Adhesion Science and Technology</em>,  2020
+    </div>
+    <div class="periodical">
+      
+    </div>
+
+    <!-- Links/Buttons -->
+    <div class="links">
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </div>
+    
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+      
+    
+
+    
+
+    
+
+    
+
+    
+  </div>
+</div>
+</li></ol>
+
+</div>
+:ET
