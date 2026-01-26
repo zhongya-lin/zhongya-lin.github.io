@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-23'
+  last_updated: '2026-01-26'
 papers:
   kGOZOLAAAAAJ:0EnyYjriUFMC:
     citations: 2
@@ -26,7 +26,7 @@ papers:
     title: Characterization of the cross-scale viscoplastic effect for advanced structural materials
     year: Unknown Year
   kGOZOLAAAAAJ:Se3iqnhoufwC:
-    citations: 33
+    citations: 34
     title: Energy-based physics-informed neural network for frictionless contact problems under large deformation
     year: '2025'
   kGOZOLAAAAAJ:UebtZRa9Y70C:
