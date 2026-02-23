@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-18'
+  last_updated: '2026-02-23'
 papers:
   kGOZOLAAAAAJ:0EnyYjriUFMC:
     citations: 2
@@ -66,7 +66,7 @@ papers:
     title: 'A strain-gradient viscoplastic model with dislocation and grain-boundary mechanisms: from Hall-Petch strengthening to Inverse Hall-Petch softening effects'
     year: Unknown Year
   kGOZOLAAAAAJ:roLk4NBRz8UC:
-    citations: 55
+    citations: 56
     title: 'Artificial intelligence for partial differential equations in computational mechanics: A review'
     year: '2024'
   kGOZOLAAAAAJ:u-x6o8ySG0sC:
