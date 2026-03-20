@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-16'
+  last_updated: '2026-03-20'
 papers:
   kGOZOLAAAAAJ:0EnyYjriUFMC:
     citations: 2
@@ -26,7 +26,7 @@ papers:
     title: Characterization of the cross-scale viscoplastic effect for advanced structural materials
     year: Unknown Year
   kGOZOLAAAAAJ:Se3iqnhoufwC:
-    citations: 44
+    citations: 47
     title: Energy-based physics-informed neural network for frictionless contact problems under large deformation
     year: '2025'
   kGOZOLAAAAAJ:UebtZRa9Y70C:
@@ -58,7 +58,7 @@ papers:
     title: Mechanical response of the constrained nanostructured layer in heterogeneous laminate
     year: '2022'
   kGOZOLAAAAAJ:hqOjcs7Dif8C:
-    citations: 7
+    citations: 8
     title: Mechanobiological modeling of viscoelasticity in soft tissue growth and morphogenesis
     year: '2025'
   kGOZOLAAAAAJ:kNdYIx-mwKoC:
@@ -66,7 +66,7 @@ papers:
     title: 'A strain-gradient viscoplastic model with dislocation and grain-boundary mechanisms: from Hall-Petch strengthening to Inverse Hall-Petch softening effects'
     year: Unknown Year
   kGOZOLAAAAAJ:roLk4NBRz8UC:
-    citations: 58
+    citations: 59
     title: 'Artificial intelligence for partial differential equations in computational mechanics: A review'
     year: '2024'
   kGOZOLAAAAAJ:u-x6o8ySG0sC:
