@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-research-direction-multiscale-mechanics-and-physics",
+        },{id: "post-strain-gradient-viscoelasticity-a-possible-spatiotemporal-framework",
+        
+          title: "Strain gradient viscoelasticity - a possible spatiotemporal framework",
+        
+        description: "A introduction of the strain gradient viscoelasticity and its application",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/sgv/";
+          
+        },
+      },{id: "post-research-direction-multiscale-mechanics-and-physics",
         
           title: "Research direction - multiscale mechanics and physics",
         
