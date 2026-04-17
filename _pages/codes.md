@@ -9,8 +9,21 @@ nav_order: 3
 
 ---
 <div class="code">
-  <h4 class="category">Code for the projects: PINNs for viscoelastic creep buckling and tissue growth (<a id="{{ category }}" href="https://github.com/zhongya-lin/PINN4Viscoelasticity">Github</a>), and the paper (<a id="{{ category }}" href="https://www.researchgate.net/publication/392941339_A_Physics-Informed_Neural_Network_Framework_for_Simulating_Creep_Buckling_in_Growing_Viscoelastic_Biological_Tissues">A physics-informed neural network framework for simulating creep buckling in growing viscoelastic biological tissues</a>).
-  </h4>
+  <h3 class="category">Open-sourced code</h3>
+
+  <h4>PINNs for viscoelastic buckling</h4>
+  <ul>
+    <li>Code: <a id="{{ category }}" href="https://github.com/zhongya-lin/PINN4Viscoelasticity">Github</a></li>
+    <li>Related paper: <a id="{{ category }}" href="https://doi.org/10.1016/j.cma.2025.118715">A physics-informed neural network framework for simulating creep buckling in growing viscoelastic biological tissues, CMAME, 2026.</a></li>
+  </ul>
+  <hr>
+
+  <h4>Mixed FEM for strain gradient viscoelasticity (SGV)</h4>
+  <ul>
+    <li>Code: <a id="{{ category }}" href="https://github.com/zhongya-lin/strain-gradient-viscoelasticity">Github</a></li>
+    <li>Related paper: <a id="{{ category }}" href="https://doi.org/10.1016/j.ijsolstr.2026.113989">A spatiotemporal framework for strain gradient viscoelasticity: Thermodynamic derivation and numerical implementation, IJSS, 2026.</a></li>
+  </ul>
+
 </div>
 
 ---

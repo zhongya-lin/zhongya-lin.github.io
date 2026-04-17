@@ -2,14 +2,14 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Lin Z. # the website title (if blank, full name will be used instead)
+title: Zhongya Lin # the website title (if blank, full name will be used instead)
 first_name: Zhongya
 middle_name: 
 last_name: Lin
 contact_note: >
   Please contact me via zhongya.lin AT outlook.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  The website of Lin for academics.
+  The website of Zhongya Lin for academics.
 footer_text: >
   Powered by Jekyll al-folio.
 keywords: zhongyalin, zhongya, lin, multiscale, viscoelasticity, strain gradient, biophysics # add your own keywords or leave empty

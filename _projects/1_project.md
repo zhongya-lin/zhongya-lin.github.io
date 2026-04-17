@@ -8,7 +8,7 @@ category:
 related_publications: true
 ---
 
-For the cross-scale feature of materials with significant miscrostructural effect, we first developed a strain gradient viscoelasticity thoery {% cite lin2020strain %} {% cite lin2021strain %}. Then, we implemented the finite element simulation for the strain gradient viscoelasticity by writing the mixed-finite element code. We also used PINN to implement the strain gradient viscoelastic simulation (in preparation). In the meantime, we developed a strain gradient visco-plasticity theory to extend the cross-scale theory {% cite Liu2026 %}.
+For the cross-scale feature of materials with significant miscrostructural effect, we first developed a strain gradient viscoelasticity thoery {% cite lin2020strain %} {% cite lin2021strain %}. Then, we implemented the finite element simulation for the strain gradient viscoelasticity by writing the mixed-finite element code, and we also used PINN to implement the strain gradient viscoelastic simulation {% cite lin2026spatiotemporal %}. In the meantime, we developed a strain gradient visco-plasticity theory to extend the cross-scale theory {% cite Liu2026 %}.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
