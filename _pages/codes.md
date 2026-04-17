@@ -9,8 +9,7 @@ nav_order: 3
 
 ---
 <div class="code">
-  <h3 class="category">Open-sourced code</h3>
-
+  <hr>
   <h4>PINNs for viscoelastic buckling</h4>
   <ul>
     <li>Code: <a id="{{ category }}" href="https://github.com/zhongya-lin/PINN4Viscoelasticity">Github</a></li>
