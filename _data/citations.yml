@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-13'
+  last_updated: '2026-06-05'
 papers:
   kGOZOLAAAAAJ:0EnyYjriUFMC:
     citations: 3
@@ -10,7 +10,7 @@ papers:
     title: Characterization of the cross-scale viscoplastic effect for advanced materials
     year: '2026'
   kGOZOLAAAAAJ:5nxA0vEk-isC:
-    citations: 10
+    citations: 12
     title: A physics-informed neural network framework for simulating creep buckling in growing viscoelastic biological tissues
     year: '2026'
   kGOZOLAAAAAJ:8k81kl-MbHgC:
@@ -30,11 +30,11 @@ papers:
     title: Characterization of the cross-scale viscoplastic effect for advanced structural materials
     year: Unknown Year
   kGOZOLAAAAAJ:Se3iqnhoufwC:
-    citations: 56
+    citations: 58
     title: Energy-based physics-informed neural network for frictionless contact problems under large deformation
     year: '2025'
   kGOZOLAAAAAJ:UebtZRa9Y70C:
-    citations: 87
+    citations: 89
     title: Experiment and numerical simulation for laser ultrasonic measurement of residual stress
     year: '2017'
   kGOZOLAAAAAJ:W7OEmFMy1HYC:
@@ -42,7 +42,7 @@ papers:
     title: Closed-form functions of cross-scale indentation scaling relationships based on a strain gradient plasticity theory
     year: '2021'
   kGOZOLAAAAAJ:WF5omc3nYNoC:
-    citations: 79
+    citations: 81
     title: 'Activating dispersed strain bands in tensioned nanostructure layer for high ductility: the effects of microstructure inhomogeneity'
     year: '2022'
   kGOZOLAAAAAJ:Y0pCki6q_DkC:
@@ -62,7 +62,7 @@ papers:
     title: The strain gradient viscoelasticity full field solution of mode-III crack problem
     year: '2023'
   kGOZOLAAAAAJ:eQOLeE2rZwMC:
-    citations: 42
+    citations: 44
     title: Mechanical response of the constrained nanostructured layer in heterogeneous laminate
     year: '2022'
   kGOZOLAAAAAJ:hqOjcs7Dif8C:
@@ -74,7 +74,7 @@ papers:
     title: 'A strain-gradient viscoplastic model with dislocation and grain-boundary mechanisms: from Hall-Petch strengthening to Inverse Hall-Petch softening effects'
     year: Unknown Year
   kGOZOLAAAAAJ:roLk4NBRz8UC:
-    citations: 67
+    citations: 68
     title: 'Artificial intelligence for partial differential equations in computational mechanics: A review'
     year: '2024'
   kGOZOLAAAAAJ:u-x6o8ySG0sC:
