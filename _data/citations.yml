@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-05'
+  last_updated: '2026-06-10'
 papers:
   kGOZOLAAAAAJ:0EnyYjriUFMC:
     citations: 3
@@ -22,7 +22,7 @@ papers:
     title: Cross-scale mechanobiological modeling of growth-induced instability in soft tubular tissues
     year: Unknown Year
   kGOZOLAAAAAJ:LkGwnXOMwfcC:
-    citations: 4
+    citations: 5
     title: The strain gradient viscoelasticity full field solutions for Mode-I and Mode-II crack problems
     year: '2024'
   kGOZOLAAAAAJ:MXK_kJrjxJIC:
@@ -30,7 +30,7 @@ papers:
     title: Characterization of the cross-scale viscoplastic effect for advanced structural materials
     year: Unknown Year
   kGOZOLAAAAAJ:Se3iqnhoufwC:
-    citations: 58
+    citations: 60
     title: Energy-based physics-informed neural network for frictionless contact problems under large deformation
     year: '2025'
   kGOZOLAAAAAJ:UebtZRa9Y70C:
@@ -58,7 +58,7 @@ papers:
     title: 'A spatiotemporal framework for strain gradient viscoelasticity: Thermodynamic derivation and numerical implementation'
     year: '2026'
   kGOZOLAAAAAJ:_FxGoFyzp5QC:
-    citations: 4
+    citations: 5
     title: The strain gradient viscoelasticity full field solution of mode-III crack problem
     year: '2023'
   kGOZOLAAAAAJ:eQOLeE2rZwMC:
@@ -74,7 +74,7 @@ papers:
     title: 'A strain-gradient viscoplastic model with dislocation and grain-boundary mechanisms: from Hall-Petch strengthening to Inverse Hall-Petch softening effects'
     year: Unknown Year
   kGOZOLAAAAAJ:roLk4NBRz8UC:
-    citations: 68
+    citations: 70
     title: 'Artificial intelligence for partial differential equations in computational mechanics: A review'
     year: '2024'
   kGOZOLAAAAAJ:u-x6o8ySG0sC:
