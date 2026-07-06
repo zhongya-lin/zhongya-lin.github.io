@@ -1,20 +1,20 @@
 metadata:
-  last_updated: '2026-06-22'
+  last_updated: '2026-07-06'
 papers:
   kGOZOLAAAAAJ:0EnyYjriUFMC:
     citations: 3
     title: A Trans-scale Shear-lag Model for Characterizing the Size Effect and Viscoelasticity of Staggered Shells
     year: '2025'
   kGOZOLAAAAAJ:3fE2CSJIrl8C:
-    citations: 2
+    citations: 3
     title: Characterization of the cross-scale viscoplastic effect for advanced materials
     year: '2026'
   kGOZOLAAAAAJ:5nxA0vEk-isC:
-    citations: 14
+    citations: 15
     title: A physics-informed neural network framework for simulating creep buckling in growing viscoelastic biological tissues
     year: '2026'
   kGOZOLAAAAAJ:8k81kl-MbHgC:
-    citations: 1
+    citations: 2
     title: Adaptive cytoskeletal responses to extracellular environment viscosity modulate cell migration
     year: '2026'
   kGOZOLAAAAAJ:KlAtU1dfN6UC:
@@ -30,7 +30,7 @@ papers:
     title: Characterization of the cross-scale viscoplastic effect for advanced structural materials
     year: Unknown Year
   kGOZOLAAAAAJ:Se3iqnhoufwC:
-    citations: 63
+    citations: 69
     title: Energy-based physics-informed neural network for frictionless contact problems under large deformation
     year: '2025'
   kGOZOLAAAAAJ:ULOm3_A8WrAC:
@@ -76,9 +76,9 @@ papers:
   kGOZOLAAAAAJ:kNdYIx-mwKoC:
     citations: 1
     title: 'A strain-gradient viscoplastic model with dislocation and grain-boundary mechanisms: from Hall-Petch strengthening to Inverse Hall-Petch softening effects'
-    year: Unknown Year
+    year: '2026'
   kGOZOLAAAAAJ:roLk4NBRz8UC:
-    citations: 73
+    citations: 74
     title: 'Artificial intelligence for partial differential equations in computational mechanics: A review'
     year: '2024'
   kGOZOLAAAAAJ:u-x6o8ySG0sC:
@@ -86,7 +86,7 @@ papers:
     title: Measurement of nanoindentation properties of polymers considering adhesion effects between AFM sharp indenter and material
     year: '2020'
   kGOZOLAAAAAJ:u5HHmVD_uO8C:
-    citations: 41
+    citations: 43
     title: A strain gradient linear viscoelasticity theory
     year: '2020'
   kGOZOLAAAAAJ:ufrVoPGSRksC:
