@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-06'
+  last_updated: '2026-07-13'
 papers:
   kGOZOLAAAAAJ:0EnyYjriUFMC:
     citations: 3
@@ -14,7 +14,7 @@ papers:
     title: A physics-informed neural network framework for simulating creep buckling in growing viscoelastic biological tissues
     year: '2026'
   kGOZOLAAAAAJ:8k81kl-MbHgC:
-    citations: 2
+    citations: 3
     title: Adaptive cytoskeletal responses to extracellular environment viscosity modulate cell migration
     year: '2026'
   kGOZOLAAAAAJ:KlAtU1dfN6UC:
@@ -22,7 +22,7 @@ papers:
     title: Cross-scale mechanobiological modeling of growth-induced instability in soft tubular tissues
     year: Unknown Year
   kGOZOLAAAAAJ:LkGwnXOMwfcC:
-    citations: 5
+    citations: 6
     title: The strain gradient viscoelasticity full field solutions for Mode-I and Mode-II crack problems
     year: '2024'
   kGOZOLAAAAAJ:MXK_kJrjxJIC:
@@ -30,7 +30,7 @@ papers:
     title: Characterization of the cross-scale viscoplastic effect for advanced structural materials
     year: Unknown Year
   kGOZOLAAAAAJ:Se3iqnhoufwC:
-    citations: 69
+    citations: 72
     title: Energy-based physics-informed neural network for frictionless contact problems under large deformation
     year: '2025'
   kGOZOLAAAAAJ:ULOm3_A8WrAC:
@@ -46,7 +46,7 @@ papers:
     title: Closed-form functions of cross-scale indentation scaling relationships based on a strain gradient plasticity theory
     year: '2021'
   kGOZOLAAAAAJ:WF5omc3nYNoC:
-    citations: 84
+    citations: 86
     title: 'Activating dispersed strain bands in tensioned nanostructure layer for high ductility: the effects of microstructure inhomogeneity'
     year: '2022'
   kGOZOLAAAAAJ:Y0pCki6q_DkC:
@@ -70,7 +70,7 @@ papers:
     title: Mechanical response of the constrained nanostructured layer in heterogeneous laminate
     year: '2022'
   kGOZOLAAAAAJ:hqOjcs7Dif8C:
-    citations: 12
+    citations: 14
     title: Mechanobiological modeling of viscoelasticity in soft tissue growth and morphogenesis
     year: '2025'
   kGOZOLAAAAAJ:kNdYIx-mwKoC:
@@ -78,7 +78,7 @@ papers:
     title: 'A strain-gradient viscoplastic model with dislocation and grain-boundary mechanisms: from Hall-Petch strengthening to Inverse Hall-Petch softening effects'
     year: '2026'
   kGOZOLAAAAAJ:roLk4NBRz8UC:
-    citations: 74
+    citations: 76
     title: 'Artificial intelligence for partial differential equations in computational mechanics: A review'
     year: '2024'
   kGOZOLAAAAAJ:u-x6o8ySG0sC:
