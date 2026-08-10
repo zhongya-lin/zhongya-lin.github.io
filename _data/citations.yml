@@ -1,20 +1,20 @@
 metadata:
-  last_updated: '2026-07-13'
+  last_updated: '2026-08-10'
 papers:
   kGOZOLAAAAAJ:0EnyYjriUFMC:
     citations: 3
-    title: A Trans-scale Shear-lag Model for Characterizing the Size Effect and Viscoelasticity of Staggered Shells
+    title: A Trans-scale Shear-lag Model for Characterizing the size effect and Viscoelasticity of Staggered Shells
     year: '2025'
   kGOZOLAAAAAJ:3fE2CSJIrl8C:
     citations: 3
     title: Characterization of the cross-scale viscoplastic effect for advanced materials
     year: '2026'
   kGOZOLAAAAAJ:5nxA0vEk-isC:
-    citations: 15
+    citations: 17
     title: A physics-informed neural network framework for simulating creep buckling in growing viscoelastic biological tissues
     year: '2026'
   kGOZOLAAAAAJ:8k81kl-MbHgC:
-    citations: 3
+    citations: 4
     title: Adaptive cytoskeletal responses to extracellular environment viscosity modulate cell migration
     year: '2026'
   kGOZOLAAAAAJ:KlAtU1dfN6UC:
@@ -30,7 +30,7 @@ papers:
     title: Characterization of the cross-scale viscoplastic effect for advanced structural materials
     year: Unknown Year
   kGOZOLAAAAAJ:Se3iqnhoufwC:
-    citations: 72
+    citations: 76
     title: Energy-based physics-informed neural network for frictionless contact problems under large deformation
     year: '2025'
   kGOZOLAAAAAJ:ULOm3_A8WrAC:
@@ -38,7 +38,7 @@ papers:
     title: Cross-scale mechanobiological modeling of growth instability in soft tubular tissues
     year: '2026'
   kGOZOLAAAAAJ:UebtZRa9Y70C:
-    citations: 90
+    citations: 92
     title: Experiment and numerical simulation for laser ultrasonic measurement of residual stress
     year: '2017'
   kGOZOLAAAAAJ:W7OEmFMy1HYC:
@@ -46,7 +46,7 @@ papers:
     title: Closed-form functions of cross-scale indentation scaling relationships based on a strain gradient plasticity theory
     year: '2021'
   kGOZOLAAAAAJ:WF5omc3nYNoC:
-    citations: 86
+    citations: 85
     title: 'Activating dispersed strain bands in tensioned nanostructure layer for high ductility: the effects of microstructure inhomogeneity'
     year: '2022'
   kGOZOLAAAAAJ:Y0pCki6q_DkC:
@@ -66,11 +66,11 @@ papers:
     title: The strain gradient viscoelasticity full field solution of mode-III crack problem
     year: '2023'
   kGOZOLAAAAAJ:eQOLeE2rZwMC:
-    citations: 45
+    citations: 46
     title: Mechanical response of the constrained nanostructured layer in heterogeneous laminate
     year: '2022'
   kGOZOLAAAAAJ:hqOjcs7Dif8C:
-    citations: 14
+    citations: 16
     title: Mechanobiological modeling of viscoelasticity in soft tissue growth and morphogenesis
     year: '2025'
   kGOZOLAAAAAJ:kNdYIx-mwKoC:
@@ -78,7 +78,7 @@ papers:
     title: 'A strain-gradient viscoplastic model with dislocation and grain-boundary mechanisms: from Hall-Petch strengthening to Inverse Hall-Petch softening effects'
     year: '2026'
   kGOZOLAAAAAJ:roLk4NBRz8UC:
-    citations: 76
+    citations: 79
     title: 'Artificial intelligence for partial differential equations in computational mechanics: A review'
     year: '2024'
   kGOZOLAAAAAJ:u-x6o8ySG0sC:
